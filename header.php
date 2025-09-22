@@ -101,7 +101,7 @@
                                                             <li><a href="mercury-top-discharge-air-cooler.php">Mercury Air Cooler</a></li>
                                                             <li><a href="uranus-top-discharge-air-cooler.php">Uranus Air Cooler</a></li>
                                                             <li><a href="pluto-top-discharge-air-cooler.php">Pluto Air Cooler</a></li>
-                                                            <li><a href="jupiter.php">Jupiter Air Cooler</a></li>
+                                                            <!-- <li><a href="jupiter.php">Jupiter Air Cooler</a></li> -->
                                                             <li><a href="venus-top-discharge-air-cooler.php">Venus Air Cooler</a></li>
                                                             <li><a href="neptune-40tg-air-cooler.php">Neptune Air Cooler</a></li>
                                                             <!-- <li><a href="mercury-top-discharge-air-cooler.php">Mercury Top Discharge Air Cooler</a></li> -->
