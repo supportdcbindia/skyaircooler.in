@@ -91,12 +91,12 @@
 						<span>&copy; Copyright <?php echo date('Y') ?> <a href="index.php">Sky Air Cooler</a></span>
 					</div>
 				</div>
-				<div class="col-md-6">
+				<!-- <div class="col-md-6">
 					<div class="tp-copyright-right text-center text-md-end">
 						<a href="case-studies.php">Terms and Conditions</a>
 						<a href="case-studies.php">Privacy Policy</a>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
@@ -216,6 +216,26 @@
 <script type="module" src="assets/js/distortion-img.js"></script>
 <script type="module" src="assets/js/skew-slider/index.js"></script>
 <script type="module" src="assets/js/img-revel/index.js"></script>
+
+<script src="assets/js/index.js"></script>
+<script src="assets/js/jquery.validate.min.js"></script>
+<script src="assets/js/js.js"></script>
+<script src="assets/js/form-buzz.js"></script>
+<script language="javascript">
+    populateCountries("country", "state");
+</script>
+<script language="javascript">
+    populateCountries("country1", "state1");
+</script>
+<script language="javascript">
+    populateCountries("country2", "state2");
+</script>
+<script language="javascript">
+    populateCountries("country3", "state3");
+</script>
+<script language="javascript">
+    populateCountries("country11", "state11");
+</script
 
 <!-- <script type="module" src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
 <script>

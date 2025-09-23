@@ -24,13 +24,33 @@
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css">
+    <link rel="stylesheet" href="assets/css/sidebar-btn.css">
+    <!-- Model css -->
+    <link rel="stylesheet" href="assets/css/model-custom.css">
 
     <!-- CSS here -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KZ5WKBT8');</script>
+<!-- End Google Tag Manager -->
 
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+</script>
 </head>
 
 <body class="tp-magic-cursor">
-
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZ5WKBT8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <!-- End Google Tag Manager (noscript) -->
+    <?php include('pop-model.php'); ?>
     <!-- Begin magic cursor -->
     <!-- <div id="magic-cursor" class="cursor-white-bg">
         <div id="ball"></div>
@@ -101,7 +121,7 @@
                                                             <li><a href="mercury-top-discharge-air-cooler.php">Mercury Air Cooler</a></li>
                                                             <li><a href="uranus-top-discharge-air-cooler.php">Uranus Air Cooler</a></li>
                                                             <li><a href="pluto-top-discharge-air-cooler.php">Pluto Air Cooler</a></li>
-                                                            <li><a href="jupiter.php">Jupiter Air Cooler</a></li>
+                                                            <!-- <li><a href="jupiter.php">Jupiter Air Cooler</a></li> -->
                                                             <li><a href="venus-top-discharge-air-cooler.php">Venus Air Cooler</a></li>
                                                             <li><a href="neptune-40tg-air-cooler.php">Neptune Air Cooler</a></li>
                                                             <!-- <li><a href="mercury-top-discharge-air-cooler.php">Mercury Top Discharge Air Cooler</a></li> -->
@@ -200,7 +220,7 @@
                                         </defs>
                                     </svg>
                                 </span>
-                                <span class="tp-btn-black-filter d-inline-flex align-items-center" style="filter: url(#buttonFilter)">
+                                <span class="tp-btn-black-filter d-inline-flex align-items-center click1" style="filter: url(#buttonFilter)">
                                     <span class="tp-btn-black-text">Get Quote</span>
                                     <span class="tp-btn-black-circle">
                                         <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">

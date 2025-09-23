@@ -11,7 +11,7 @@
 <section class="tp-career-details-ptb pt-80">
     <div class="container container-1230">
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-lg-12">
                 <div class="tp-career-details-wrapper pb-40">
                     <div class="tp-career-details-top pb-30">
                         <h4 class="tp-career-details-title">Case Studies Title</h4>
@@ -24,13 +24,13 @@
                         <div class="tp-career-details-list pb-50">
                             <ul>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
+                                <!-- <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
-                                <li>It is a long established fact that a reader will be distracted by the readable content.</li>
-                                <li>It is a long established fact that a reader will be distracted by the readable content.</li>
+                                <li>It is a long established fact that a reader will be distracted by the readable content.</li> -->
                             </ul>
                         </div>
                         <div class="case-studies-img pb-50">
@@ -40,13 +40,13 @@
                         <div class="tp-career-details-list pb-50">
                             <ul>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
+                                <!-- <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable content.</li>
-                                <li>It is a long established fact that a reader will be distracted by the readable content.</li>
-                                <li>It is a long established fact that a reader will be distracted by the readable content.</li>
+                                <li>It is a long established fact that a reader will be distracted by the readable content.</li> -->
                             </ul>
                         </div>
 
@@ -68,7 +68,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <!-- <div class="col-lg-4">
                 <div class="tp-career-details-sidebar">
                     <div class="tp-career-details-sidebar-box">
                         <div class="tp-career-details-sidebar-heading">
@@ -138,7 +138,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

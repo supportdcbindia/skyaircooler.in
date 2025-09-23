@@ -183,7 +183,7 @@
 					</div>
 				</div>
 			</div> -->
-			<div class="col-lg-4 mb-3">
+			<!-- <div class="col-lg-4 mb-3">
 				<div class="creative-project-item mb-20">
 					<div class="creative-project-thumb anim-zoomin-wrap p-relative">
 						<div class="anim-zoomin not-hide-cursor" data-cursor="View<br>Demo">
@@ -196,7 +196,7 @@
 						<h4 class="creative-project-title-sm"><a class="tp-line-white" href="jupiter.php">Jupiter Air Cooler</a></h4>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>
